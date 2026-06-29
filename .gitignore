@@ -1,0 +1,32 @@
+# Keil MDK
+*.uvguix.*
+*.uvguix.*.crash_dump
+*.uvoptx
+*.uvprojx.bak
+*.uvoptx.bak
+*.dep
+*.Administrator
+JLinkLog.txt
+JLinkSettings.ini
+*.iex
+*.axf
+*.htm
+*.lnp
+*.lst
+*.lst.txt
+*.map
+*.bin
+*.hex
+
+# Build output
+Objects/
+Listings/
+RTE/
+DebugConfig/
+
+# IDE
+.vscode/
+
+# OS
+Thumbs.db
+Desktop.ini
